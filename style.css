@@ -12,6 +12,10 @@ a {
   transition: 0.4s;
 }
 
+.store {
+  color: #22262a;
+}
+
 img {
   max-width: 100%;
 }
